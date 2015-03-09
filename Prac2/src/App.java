@@ -1,4 +1,5 @@
 /**App program
+ * Prac App -prints the contents of a string to the console
  * Created by jc301192 on 9/03/15.
  */
 public class App {
